@@ -1,16 +1,37 @@
-## Hi there 👋
+# Olá! Eu sou Állan Garcia 👋
 
-<!--
-**AllanCezarGarcia/AllanCezarGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em crescimento, focado em construir **soluções robustas de Backend** com a stack Microsoft.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Foco e Aprendizado
+
+* 🎓 **Estudando Atualmente:** C# e aprofundando em .NET para a criação de **APIs RESTful** e aplicações **MVC**.
+* 🎯 **Objetivo:** Dominar o ecossistema .NET para desenvolver sistemas escaláveis e de alta performance.
+* 👯 **Colaboração:** Aberto a contribuir em projetos que envolvam C#/.NET ou aprimoramento de habilidades em SQL.
+
+---
+
+### 🛠️ Minha Stack de Tecnologia
+
+Aqui estão as tecnologias com as quais já tenho experiência:
+
+| Categoria | Tecnologias |
+| :---: | :--- |
+| **Linguagens Core** | `C#` • `JavaScript` • `Python` • `SQL` |
+| **Backend & Web** | `.NET (em estudo/aplicação)` • `Web` |
+| **Frontend & Design** | `Bootstrap` |
+| **Controle de Versão** | `Git` |
+
+---
+
+### 📫 Conecte-se Comigo
+
+| Tipo | Detalhe |
+| :---: | :--- |
+| **LinkedIn** | [Allan Garciaa](https://www.linkedin.com/in/Allan-Garciaa) |
+| **Email** | allanoriginal8@gmail.com |
+
+---
+
+*“Coding is not just what I do, it's how I think.”*
